@@ -20,3 +20,7 @@ If you're working on something cool or have an interesting project idea, feel fr
 
 
 Looking forward to collaborating and learning together!
+
+2
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mahendra2611&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra2611&langs_count=5&theme=tokyonight)]()
