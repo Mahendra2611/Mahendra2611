@@ -23,6 +23,8 @@ Looking forward to collaborating and learning together!
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=Mahendra2611&count_private=true&theme=tokyonight&showicons=true)]()
+
+
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Mahendra2611&langs_count=5&theme=tokyonight)]()
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mahendra2611)](https://github.com/Mahendra2611/github-readme-stats)
+
